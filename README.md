@@ -1,6 +1,6 @@
-# SneakerOrderScraper 📦👟
+# Sneakers_Scraper 📦👟
 
-SneakerOrderScraper is a project created to assist sneaker collectors in automating the ordering process across multiple websites. It allows users to effortlessly place orders for sneakers from seven different websites, including Nike, and automatically upload order details to a server for easy retrieval via API.
+Sneakers_Scraper is a project created to assist sneaker collectors in automating the ordering process across multiple websites. It allows users to effortlessly place orders for sneakers from seven different websites, including Nike, and automatically upload order details to a server for easy retrieval via API.
 
 ## Features
 
@@ -11,14 +11,14 @@ SneakerOrderScraper is a project created to assist sneaker collectors in automat
 
 ## Usage
 
-1. Install the SneakerOrderScraper extension in your preferred browser.
+1. Install the Sneakers_Scraper extension in your preferred browser.
 2. Navigate to the website from which you want to order sneakers.
 3. Use the extension to select your desired sneakers and place your order.
 4. Sit back and relax as SneakerOrderScraper automates the rest, uploading your order details to a server for easy retrieval.
 
 ## Installation
 
-To install SneakerOrderScraper, simply download the extension from the Chrome Web Store or Firefox Add-ons Store and follow the on-screen instructions.
+To install Sneakers_Scraper, simply download the extension from the Chrome Web Store or Firefox Add-ons Store and follow the on-screen instructions.
 
 ## Contributing
 
