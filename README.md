@@ -30,4 +30,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For more information, please visit our [website](#) or contact us at [email@example.com](mailto:email@example.com).
+The project is made for a Fiver client as a project.
