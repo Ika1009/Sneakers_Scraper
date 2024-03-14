@@ -1,1 +1,28 @@
 
+{
+  "manifest_version": 3,
+  "name": "Sneakers_Scraper",
+  "version": "1.0",
+  "description": "Automate the ordering process for sneaker collectors.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.nike.com/*",
+        "https://www.example.com/*",
+        "https://www.anotherexample.com/*",
+        "https://www.yetanotherexample.com/*",
+        "https://www.moreexamples.com/*",
+        "https://www.examplesgalore.com/*",
+        "https://www.finalwebsite.com/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
